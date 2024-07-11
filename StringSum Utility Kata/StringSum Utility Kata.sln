@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSum Utility Kata", "StringSum Utility Kata.csproj", "{6BF4D41D-591A-41A0-9092-DCDE14A34466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSum Utility Tests", "..\StringSum Utility Tests\StringSum Utility Tests.csproj", "{4FEEB962-B331-4E59-85CC-1BD930B3B0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF4D41D-591A-41A0-9092-DCDE14A34466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF4D41D-591A-41A0-9092-DCDE14A34466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF4D41D-591A-41A0-9092-DCDE14A34466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF4D41D-591A-41A0-9092-DCDE14A34466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEEB962-B331-4E59-85CC-1BD930B3B0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEEB962-B331-4E59-85CC-1BD930B3B0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEEB962-B331-4E59-85CC-1BD930B3B0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEEB962-B331-4E59-85CC-1BD930B3B0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E93C696-A005-4569-B1F8-D077786BBAE1}
+	EndGlobalSection
+EndGlobal
